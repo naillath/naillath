@@ -2,7 +2,9 @@
 
 ## Desenvolvedor Front-End
 
-Nas teias tecidas com fios de código e magia, eu me apresento como Naillath, o Mago Front-End, um artífice das dimensões digitais que desenha realidades com as habilidades mais encantadas: JavaScript, React, HTML e CSS. A cada nascer do sol binário, mergulho de cabeça em um mundo onde a imaginação se funde com a lógica, e a criação se torna uma verdadeira alquimia moderna.
+Em meio às intricadas teias do código e da tecnologia, permitam-me apresentar a mim mesmo: Me chamo Lucas, um entusiasta desenvolvedor Front-End que, em algumas ocasiões, assume o intrigante alter ego de Naillath durante minhas empreitadas como freelancer. Minha paixão pela tecnologia é o motor que impulsiona minha atuação como um artífice das dimensões digitais, moldando realidades com maestria nas ferramentas mais encantadas da web, incluindo React, JavaScript, HTML e CSS.
+
+A cada novo dia, vejo como uma oportunidade para explorar a sinergia entre imaginação e lógica, onde a criação se transforma em uma verdadeira alquimia moderna. Minha jornada é marcada pela busca contínua de soluções elegantes e pelo aprimoramento constante das habilidades. Assim, neste reino de infinitas possibilidades, sou Naillath, o alquimista do Front-End que conjura maravilhas digitais, transformando bits e pixels em experiências verdadeiramente mágicas.
 
 ## Conecte-se comigo
 
