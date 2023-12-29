@@ -2,9 +2,9 @@
 
 ## Desenvolvedor Front-End
 
-Sou um desenvolvedor front-end com pouco mais de um ano de experiência, apaixonado pela criação de interfaces e pelo universo das tecnologias. Trabalhei em uma ampla gama de projetos desafiadores, sobre o alter-ego de Naillath no mudno do freelancing, onde explorei a fundo minha paixão por esse campo, utilizando principalmente JavaScript, HTML e CSS. Atualmente, estou concentrado em aprimorar minhas habilidades em React.
+Estou me especializando como desenvolvedor front-end, apaixonado pela criação de interfaces e pelo universo das tecnologias. Tenho explorado profundamente esse campo e já trabalhado em alguns projetos, sob o alter-ego de Naillath no mundo do freelancer, onde tenho mergulhado fundo na minha paixão por essa área, utilizando principalmente JavaScript, HTML e CSS. Atualmente, estou concentrado em aprimorar minhas habilidades em React e me tornar um JavaScript Expert.
 
-Busco continuamente soluções inovadoras e adoto abordagens criativas para superar os desafios do dia-a-dia. Meu objetivo é colaborar com profissionais experientes, mantendo-me em constante aprendizado para elevar minhas habilidades sempre a um próximo nível.
+Busco continuamente soluções inovadoras e adoto abordagens criativas para superar os desafios do dia a dia. Meu objetivo é colaborar e aprender com profissionais experientes, mantendo-me em constante aprendizado para elevar minhas habilidades sempre a um próximo nível.
 
 ## Conecte-se comigo
 
