@@ -1,10 +1,10 @@
-# Hi, Dear! I'am Naillath! 👋
+# Olá! Sou Naillath! 👋
 
-## Desenvolvedor Front-End
+## Software Developer em Ascensão! 👋
 
-Estou me especializando como desenvolvedor front-end, apaixonado pela criação de interfaces e pelo universo das tecnologias. Tenho explorado profundamente esse campo e já trabalhado em alguns projetos, sob o alter-ego de Naillath no mundo do freelancer, onde tenho mergulhado fundo na minha paixão por essa área, utilizando principalmente JavaScript, HTML e CSS. Atualmente, estou concentrado em aprimorar minhas habilidades em React e me tornar um JavaScript Expert.
-
-Busco continuamente soluções inovadoras e adoto abordagens criativas para superar os desafios do dia a dia. Meu objetivo é colaborar e aprender com profissionais experientes, mantendo-me em constante aprendizado para elevar minhas habilidades sempre a um próximo nível.
+Desbravando o universo da Programação! 💻<br>
+Compartilho minha jornada, estudos e conhecimento. 📚💡<br>
+Vamos codificar juntos! 🤝<br>
 
 ## Conecte-se comigo
 
