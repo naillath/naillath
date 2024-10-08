@@ -1,4 +1,4 @@
-# Olá! Bem-vindo(a) ao meu perfil! Vamos explorar juntos o mundo da tecnologia. 👋
+# Olá! Bem-vindo(a) ao meu perfil! 👋
 
 Me chamo Lucas Natanael, mas no mundo digital prefiro ser chamado de Naillath. Estou no segundo semestre de Ciências da Computação e minha paixão por tecnologia vem desde a infância, quando comecei a jogar videogames e, mais tarde, me aprofundei em programação.
 
