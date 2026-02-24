@@ -1,14 +1,19 @@
-# Olá! Bem-vindo(a) ao meu perfil! 👋
+# 👋 Opa, baum? Me chamo Lucas!
 
-Me chamo Lucas Natanael, mas no mundo digital prefiro ser chamado de Naillath. Estou no segundo semestre de Ciências da Computação e minha paixão por tecnologia vem desde a infância, quando comecei a jogar videogames e, mais tarde, me aprofundei em programação.
+Estou em transição de carreira para a área de tecnologia, com foco em desenvolvimento back-end.
 
-Atualmente, trabalho como Cumim em um complexo gastronômico, mas meu grande sonho é conquistar um espaço na área de tecnologia. Estou me dedicando ao máximo para me tornar um programador competente.
+No dia a dia, estou estudando e colocando a mão na massa com Python, Node.js, lógica de sistemas e aplicações back-end.
 
-Nos meus momentos livres, gosto de jogos de MMORPG com temas medievais, animes e livros que me transportam para novos mundos ou agregam conhecimento.
+Atualmente participo do Bootcamp Jornada para o Futuro (Node.js + IA), desenvolvendo projetos e soluções mais próximas do que o mercado pede de verdade.
+
+Meu objetivo é ingressar oficialmente na área tech e iniciar o curso de Análise e Desenvolvimento de Sistemas no primeiro semestre de 2026, sempre equilibrando estudo, prática e evolução constante.
+
+Curto ambientes que valorizam crescimento, disciplina e aprendizado contínuo. Bora construir coisa boa juntos?
+
+
 
 ## Conecte-se comigo
 
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/learning_js2023_97837)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/naillath/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/luka2777/)
 
@@ -21,5 +26,3 @@ Nos meus momentos livres, gosto de jogos de MMORPG com temas medievais, animes e
 ![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript&logoColor)
 ![React](https://img.shields.io/badge/react-000?style=for-the-badge&logo=react&logoColor)
 
-## Github Stats
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=naillath&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
