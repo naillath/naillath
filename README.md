@@ -1,4 +1,4 @@
-# 👋 Opa, baum? Me chamo Lucas!
+## 👋 Opa, baum? Me chamo Lucas!
 
 Estou em transição de carreira para a área de tecnologia, com foco em desenvolvimento back-end.
 
@@ -10,19 +10,28 @@ Meu objetivo é ingressar oficialmente na área tech e iniciar o curso de Análi
 
 Curto ambientes que valorizam crescimento, disciplina e aprendizado contínuo. Bora construir coisa boa juntos?
 
+---
 
+### 🚀 Áreas de Interesse:
+- Back-end com Python e Node.js  
+- Desenvolvimento e consumo de APIs REST 
+- Lógica de sistemas e boas práticas de código  
+- Versionamento com Git e GitHub  
+- Automação de tarefas e scripts
 
-## Conecte-se comigo
+---
 
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/naillath/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/luka2777/)
+### 📚 Atualmente:
+- Em formação no Bootcamp Jornada para o Futuro (Node.js + IA)
+- Foco prático em Node.js, APIs e lógica de sistemas
+- Evoluindo base técnica para aplicações back-end
 
-## Tecnologias
+---
 
-![Git](https://img.shields.io/badge/git-000.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-000.svg?style=for-the-badge&logo=github&logoColor)
-![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
-![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript&logoColor)
-![React](https://img.shields.io/badge/react-000?style=for-the-badge&logo=react&logoColor)
+### 🤝 Conecte-se comigo:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucas-natanael-backend)
+[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/apherudev/)
 
+---
+
+> *"Código é mais que instrução, é construção de futuro."*
