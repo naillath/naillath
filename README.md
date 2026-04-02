@@ -30,7 +30,7 @@ Curto ambientes que valorizam crescimento, disciplina e aprendizado contínuo. B
 
 ### 🤝 Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucas-natanael-backend)
-[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/apherudev/)
+[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/naillathdev/)
 
 ---
 
