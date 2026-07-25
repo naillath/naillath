@@ -1,30 +1,41 @@
 ## 👋 Opa, baum? Me chamo Lucas!
 
-Estou em transição de carreira para a área de tecnologia, com foco em desenvolvimento back-end.
+Desenvolvedor back-end em formação, em transição de carreira para a área de tecnologia.
 
-No dia a dia, estou estudando e colocando a mão na massa com Python, Node.js, lógica de sistemas e aplicações back-end.
+No dia a dia, estudo e desenvolvo projetos utilizando JavaScript, Node.js, Express e fundamentos de desenvolvimento back-end, sempre buscando transformar teoria em prática.
 
-Atualmente participo do Bootcamp Jornada para o Futuro (Node.js + IA), desenvolvendo projetos e soluções mais próximas do que o mercado pede de verdade.
+Atualmente curso Análise e Desenvolvimento de Sistemas na UniCesumar, onde venho fortalecendo minha base em desenvolvimento de software enquanto construo projetos próprios para evoluir tecnicamente e ampliar meu portfólio.
 
-Meu objetivo é ingressar oficialmente na área tech e iniciar o curso de Análise e Desenvolvimento de Sistemas no primeiro semestre de 2026, sempre equilibrando estudo, prática e evolução constante.
+Meu objetivo é conquistar minha primeira oportunidade na área de tecnologia e crescer como desenvolvedor, mantendo uma rotina de aprendizado contínuo, disciplina e construção de soluções para problemas reais.
 
-Curto ambientes que valorizam crescimento, disciplina e aprendizado contínuo. Bora construir coisa boa juntos?
+Acredito que a melhor forma de aprender é criando, errando, evoluindo e compartilhando conhecimento.
+
+Bora construir coisa boa juntos?
 
 ---
 
 ### 🚀 Áreas de Interesse:
-- Back-end com Python e Node.js  
-- Desenvolvimento e consumo de APIs REST 
-- Lógica de sistemas e boas práticas de código  
-- Versionamento com Git e GitHub  
-- Automação de tarefas e scripts
+- Desenvolvimento Back-end
+- APIs REST
+- Bancos de Dados
+- Arquitetura de Software
+- Automação de Processos
+
+---
+
+## 💻 Tecnologias
+- JavaScript
+- Node.js
+- Express
+- Git & GitHub
+- SQL (em aprendizado)
 
 ---
 
 ### 📚 Atualmente:
-- Em formação no Bootcamp Jornada para o Futuro (Node.js + IA)
-- Foco prático em Node.js, APIs e lógica de sistemas
-- Evoluindo base técnica para aplicações back-end
+- Cursando Análise e Desenvolvimento de Sistemas (UniCesumar)
+- Desenvolvendo APIs e projetos back-end com Node.js
+- Estudando boas práticas, arquitetura e Git/GitHub
 
 ---
 
