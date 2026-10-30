@@ -45,4 +45,4 @@ Bora construir coisa boa juntos?
 
 ---
 
-> *"Código é mais que instrução, é construção de futuro."*
+> *"Life isn't a strawberry. Keep coding. 🍓💻"*
